@@ -22,10 +22,15 @@ Memory limit: 1 GB.
 Sample input: 
 
 2
+
 7 3
+
 1 2 3 4 5 6 7
+
 5 10
+
 7 7 7 7 7
+
 
 Sample Output: 
 Case #1: 1
